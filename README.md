@@ -1,4 +1,7 @@
 # Conversor de moneda
 
+Este programa nos permite convertir el valor de una moneda a otra, utilizando las tasas de cambio vigentes en el mercado. Facilita la conversión de una cantidad de dinero de una divisa a otra, sin necesidad de recurrir a cálculos manuales o consultar múltiples fuentes de información, emtre las siguientes monedas: Quetzal GTQ, Dolar estadounidense USD y Euro EUR.
 
-Este programa solicita al usuario seleccionar la moneda de origen y la moneda de destino, luego que ingrese la cantidad de dinero que desea convertir. Después de recibir la entrada del usuario, calculará la cantidad equivalente en la moneda de destino y mostrará el resultado.
+
+## prerrequisito
+
