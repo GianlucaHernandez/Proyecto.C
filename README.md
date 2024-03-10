@@ -6,9 +6,9 @@ Este programa nos permite convertir el valor de una moneda a otra, utilizando la
 ## prerrequisito
 Este proyecto fue desarrollado en:
 
-1.Visual studio code
+1. Visual studio code
 
-2.Ubuntu 22.04.3
+2. Ubuntu 22.04.3
 
     -Compilador de C (build-essential), comando de instalacion en la terminal de ubuntu: "sudo apt install build-essential"
 
