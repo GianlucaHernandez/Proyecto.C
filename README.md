@@ -5,6 +5,7 @@ Este programa nos permite convertir el valor de una moneda a otra, utilizando la
 
 ## prerrequisito
 Este proyecto fue desarrollado en:
+
 1.Visual studio code
 
 2.Ubuntu 22.04.3
@@ -12,17 +13,17 @@ Este proyecto fue desarrollado en:
     -Compilador de C (build-essential), comando de instalacion en la terminal de ubuntu: "sudo apt install build-essential"
 
 ## Pasos para su ejecucion 
-Ya que C es un lenguaje compilado debemos compilar el codigo para poder ejecutarlo.
+-Ya que C es un lenguaje compilado debemos compilar el codigo para poder ejecutarlo.
 
-Abrimos la terminal en donde tenemos nuestro codigo, luego con el comando "cd nombre_de_la_carpeta/" para ingresar en la carpeta del archivo.
+-Abrimos la terminal en donde tenemos nuestro codigo, luego con el comando "cd nombre_de_la_carpeta/" para ingresar en la carpeta del archivo.
 
-Luego seleccionamos el archivo dentro con el comando "ls".
+-Luego seleccionamos el archivo dentro con el comando "ls".
 
-Para compilar nuestro codigo C utilizamos el comando "gcc nombre_del_archivo -o nombre_de_binario".
+-Para compilar nuestro codigo C utilizamos el comando "gcc nombre_del_archivo -o nombre_de_binario".
 
-Ya creado nuestro archivo ejecutable utilizamos el comando "./nombre_de_binario" para ejecutarlo..
+-Ya creado nuestro archivo ejecutable utilizamos el comando "./nombre_de_binario" para ejecutarlo..
 
-Listo logramos ejecutar nuestro programa.
+-Listo logramos ejecutar nuestro programa.
 
 ## **Gianluca Hernandez**
 ## *24002037*
